@@ -1,0 +1,174 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #0056b3;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+}body, ul {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #0056b3;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+.nav-links li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background: #fff;
+    color: #333;
+}
+
+header h1 {
+    color: #333;
+    text-align: center;
+}
+
+.discount {
+    color: blue;
+    font-weight: bold;
+}
+
+.first-button {
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+.social-button {
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.instagram {
+    background-color: #c13584; 
+}
+
+.facebook {
+    background-color: #3b5998; 
+}
+
+.youtube {
+    background-color: #c4302b; 
+}
+
+section {
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #0056b3;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    margin-top: 13px;
+}
+
+.footer h2 {
+    margin-top: 0;
+}
+
+.footer-links p, .footer-links ul {
+    margin: 5px 0;
+}
+
+.footer-links ul {
+    padding-left: 20px;
+}
+
+.footer-links li {
+    list-style-type: none; 
+}
+
+.testimonials {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.testimonial {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.testimonial p {
+    font-style: italic;
+}
+
+.testimonial cite {
+    display: block;
+    margin-top: 5px;
+    color: #555;
+}
